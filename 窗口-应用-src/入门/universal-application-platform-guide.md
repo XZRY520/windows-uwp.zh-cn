@@ -23,7 +23,7 @@ UWP 应用的特点：
 - 能够在运行 Windows 10 的所有设备上使用常见的 API。
 - 可以使用设备的特定功能并让 UI 适应不同的设备屏幕尺寸、分辨率和 DPI。
 - 可通过所有 Windows 10 设备（或仅指定的 Windows 10 设备）上的 Microsoft Store 获取。 Microsoft Store 提供多种可帮助你的应用赚钱的方法。
-- 能够在不对计算机构成风险或引起“计算机腐烂”的情况下安装和卸载。
+- 能够在不对计算机构成风险或引起“计算机破坏”的情况下安装和卸载。
 - 互动：使用动态磁贴、推送通知以及与 Windows 时间线和 Cortana 的“Pick Up Where I Left Off”交互的用户活动吸引用户。
 - 可使用 C#、C++、Visual Basic 和 Javascript 编程。 对于 UI，使用 XAML、HTML 或 DirectX。
 
